@@ -2,10 +2,10 @@
 # Python Activity-Based Learning
 
 ## Student Details
-- **Name:** [Your Name]
-- **Roll Number:** [Your Roll Number]
-- **Branch:** [Your Branch, e.g., CSE / IT / ECE]
-- **Section:** [Your Section]
+- **Name:** [S.Hadassa jeevana]
+- **Roll Number:** [N26V01A0335]
+- **Branch:** [CSE]
+- **Section:** [Section-4]
 
 ## Selected Case Studies (10)
 1. Multi-Currency Travel Budget Analysis
